@@ -2,14 +2,14 @@
 Name: Thais Alvarenga
 Course: 100 Days of Python
 Description:  Book name generator
-Date: 04/02/2023
+Date: 29/10/2023
 """
 import random
 
 titleWords =["Chronicles", "Adventures" ,"Tales", "Journey"]
 
 print("WELCOME TO BOOK NAME GENERATOR")
-print("My job is to help you find the name for your best selling book!")
+print("My job is to help you find the name for your next best-selling book!")
 noun = input("Give me a noun that describes your protagonist: ")
 adjective = input("Now give me an adjective about the mood of your book: ")
 
