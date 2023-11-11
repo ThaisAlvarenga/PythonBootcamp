@@ -5,8 +5,6 @@ Description:  Web scrapper that gets the latest and highlited news from the NY T
 Date: 10/11/2023
 '''
 
-
-
 from bs4 import BeautifulSoup
 import requests
 import csv

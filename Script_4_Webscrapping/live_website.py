@@ -1,3 +1,11 @@
+'''
+Name: Thais Alvarenga
+Course: NY Times Highlights and Latest News
+Description:  Web scrapper that gets the latest and highlited news from the NY Times's Tech section and saves the title and url for the articles into a csv file. 
+Date: 10/11/2023
+'''
+
+
 from bs4 import BeautifulSoup
 import requests
 
